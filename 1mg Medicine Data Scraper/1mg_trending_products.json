@@ -250,6 +250,16 @@
         "offerPrice": "\u20b956"
     },
     {
+        "productName": "Dr. Morepen Aid Adhesive First Aid Dressing",
+        "productUrl": "https://www.1mg.com/otc/dr.-morepen-aid-adhesive-first-aid-dressing-otc617167",
+        "packSize": "jar of 100 bandages",
+        "productRating": "-",
+        "numberOfRating": "-",
+        "actualPrice": "\u20b9250",
+        "discountPercent": "30% off",
+        "offerPrice": "\u20b9175"
+    },
+    {
         "productName": "Nivea Smooth Milk Body Lotion with Shea Butter",
         "productUrl": "https://www.1mg.com/otc/nivea-smooth-milk-body-lotion-with-shea-butter-otc470322",
         "packSize": "pump bottle of 400 ml Lotion",
@@ -568,16 +578,6 @@
         "actualPrice": "-",
         "discountPercent": "-",
         "offerPrice": "MRP\u20b930"
-    },
-    {
-        "productName": "Hamdard Safi Natural Blood Purifier Syrup",
-        "productUrl": "https://www.1mg.com/otc/hamdard-safi-natural-blood-purifier-syrup-otc263708",
-        "packSize": "bottle of 500 ml Syrup",
-        "productRating": "4.4",
-        "numberOfRating": "826 ratings",
-        "actualPrice": "\u20b9200",
-        "discountPercent": "10% off",
-        "offerPrice": "\u20b9179"
     },
     {
         "productName": "Sensodyne Repair & Protect Toothpaste",
@@ -1100,13 +1100,13 @@
         "offerPrice": "\u20b9211"
     },
     {
-        "productName": "Dr. Morepen Aid Adhesive First Aid Dressing",
-        "productUrl": "https://www.1mg.com/otc/dr.-morepen-aid-adhesive-first-aid-dressing-otc617167",
-        "packSize": "jar of 100 bandages",
-        "productRating": "-",
-        "numberOfRating": "-",
-        "actualPrice": "\u20b9250",
-        "discountPercent": "30% off",
-        "offerPrice": "\u20b9175"
+        "productName": "Hamdard Safi Natural Blood Purifier Syrup",
+        "productUrl": "https://www.1mg.com/otc/hamdard-safi-natural-blood-purifier-syrup-otc263708",
+        "packSize": "bottle of 500 ml Syrup",
+        "productRating": "4.4",
+        "numberOfRating": "826 ratings",
+        "actualPrice": "\u20b9200",
+        "discountPercent": "10% off",
+        "offerPrice": "\u20b9179"
     }
 ]
