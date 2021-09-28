@@ -6,7 +6,7 @@ import pandas as pd
 import json
 from user_agents_list import USER_AGENTS
 
-# Getting the page source
+# Getting the page source for normal requests
 def extract_source(url,headers= {}, params=[]):
     print("Getting: ", url)
     if "user-agent" not in headers:
@@ -18,6 +18,12 @@ def extract_source(url,headers= {}, params=[]):
         ).text,
         "lxml"
     )
+    return soup
+
+
+# BeautifulSoup parser for Selenium page source
+def html_parser(page_source):
+    soup = BeautifulSoup(page_source,"lxml")
     return soup
 
 
